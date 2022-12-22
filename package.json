@@ -28,6 +28,7 @@
     "workbox-strategies": "^6.5.4",
     "workbox-streams": "^6.5.4"
   },
+  "homepage": "/pwa-react-typescript/build",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
